@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraversalApiProject", "TraversalApiProject\TraversalApiProject.csproj", "{B8ADDA82-D35C-4F5C-832A-85335CE9EA41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8ADDA82-D35C-4F5C-832A-85335CE9EA41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8ADDA82-D35C-4F5C-832A-85335CE9EA41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8ADDA82-D35C-4F5C-832A-85335CE9EA41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8ADDA82-D35C-4F5C-832A-85335CE9EA41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {425CE28A-17F8-4474-8401-9EC10D5A4515}
+	EndGlobalSection
+EndGlobal
